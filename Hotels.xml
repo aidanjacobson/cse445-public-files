@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns="http://venus.sod.asu.edu/WSRepository/xml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://venus.sod.asu.edu/WSRepository/xml Hotels.xsd">
+    <Hotel Rating="4.1">
+        <Name>The McCormick Scottsdale</Name>
+        <Phone>800-535-1865</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7421</Number>
+            <Street>N Scottsdale Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="3.9">
+        <Name>Sonesta Simply Suites Phoenix Scottsdale</Name>
+        <Phone>480-551-1100</Phone>
+        <Address NearestAirport="PHX">
+            <Number>10740</Number>
+            <Street>N 90th St</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85260</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.5">
+        <Name>The Scottsdale Plaza Resort &amp; Villas</Name>
+        <Phone>480-948-5000</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7200</Number>
+            <Street>N Scottsdale Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85253</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.2">
+        <Name>Hilton Vacation Club Scottsdale Villa Mirage</Name>
+        <Phone>480-473-4000</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7887</Number>
+            <Street>E Princess Blvd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85255</Zip>
+        </Address>
+    </Hotel>
+    <Hotel Rating="4.3">
+        <Name>The Scottsdale Resort and Spa, Curio Collection by Hilton</Name>
+        <Phone>480-991-9000</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7700</Number>
+            <Street>E McCormick Pkwy</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85258</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>The Phoenician, a Luxury Collection Resort, Scottsdale</Name>
+        <Phone>480-941-8200</Phone>
+        <Address NearestAirport="PHX">
+            <Number>6000</Number>
+            <Street>E Camelback Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Canopy by Hilton Scottsdale Old Town</Name>
+        <Phone>480-590-3864</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7142</Number>
+            <Street>E 1st St</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85251</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Hotel Bixby Scottsdale</Name>
+        <Phone>480-949-5115</Phone>
+        <Address NearestAirport="PHX">
+            <Number>409</Number>
+            <Street>N Scottsdale Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85257</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>La Quinta Inn &amp; Suites by Wyndham Phoenix Scottsdale</Name>
+        <Phone>480-614-5300</Phone>
+        <Address NearestAirport="PHX">
+            <Number>8888</Number>
+            <Street>E Shea Blvd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85260</Zip>
+        </Address>
+    </Hotel>
+    <Hotel>
+        <Name>Scottsdale Parkview Resort</Name>
+        <Phone>480-941-1202</Phone>
+        <Address NearestAirport="PHX">
+            <Number>7707</Number>
+            <Street>E McDowell Rd</Street>
+            <City>Scottsdale</City>
+            <State>AZ</State>
+            <Zip>85257</Zip>
+        </Address>
+    </Hotel>
+</Hotels>
